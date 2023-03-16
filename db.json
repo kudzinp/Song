@@ -1,7 +1,4 @@
 {
-  "Song": [
-    "id": "1",
-    "name": "Deutschland",
-    "artist": "Rammstein"
-  ]
+	"name": "Deutschland",
+	"artist": "Rammstein"
 }
