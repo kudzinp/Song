@@ -1,4 +1,6 @@
 {
-	"name": "Deutschland",
-	"artist": "Rammstein"
+	"song": [
+		"name": "Deutschland",
+		"artist": "Rammstein"
+	]
 }
