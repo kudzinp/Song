@@ -1,6 +1,7 @@
 {
 	"song": {
 		"name": "Deutschland",
-		"artist": "Rammstein"
+		"artist": "Rammstein",
+		"isLiked": true
 	}
 }
